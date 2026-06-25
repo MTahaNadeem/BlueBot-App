@@ -1,0 +1,6 @@
+{
+  "name": "BlueBot Controller",
+  "description": "High-performance Bluetooth Classic (SPP) robot controller app featuring zero-ANR background connectivity, paired device listing, active command logs, and ergonomic D-pad controls for Arduino-based hardware.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
